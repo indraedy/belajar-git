@@ -1,0 +1,4 @@
+Resolusi belajar git dan github
+- Konsisten belajar git dan github
+- Membuat aplikasi mobile video streming
+- Bekerja secara berkolaborasi
