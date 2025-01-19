@@ -2,3 +2,5 @@ Resolusi belajar git dan github
 - Konsisten belajar git dan github
 - Membuat aplikasi mobile video streming
 - Bekerja secara berkolaborasi
+- Membuat project web atau aplikasi mobile yang akan di share di github
+- Kolaborasi dengan kelompok tim
