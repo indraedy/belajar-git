@@ -5,6 +5,7 @@ Rencana Fitur Baru
     * Freamework Javascript
       * Vue
       * React
+      * Angular
 - Membuat file utama
 - Materi struktur data dasar
 - Membuat detail file utama
