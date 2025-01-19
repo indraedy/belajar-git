@@ -1,0 +1,4 @@
+Rencana Fitur Baru
+- Membuat fitur login
+- Membuat file utama
+- Membuat detail file utama
