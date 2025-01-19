@@ -2,5 +2,8 @@ Rencana Fitur Baru
 - Membuat fitur login
   * Menggunakan auth
   * Fitur login menggunakan ES6
+    * Vue
+    * Angular
 - Membuat file utama
 - Membuat detail file utama
+- Python
