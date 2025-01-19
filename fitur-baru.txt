@@ -1,4 +1,6 @@
 Rencana Fitur Baru
 - Membuat fitur login
+  * Menggunakan auth
+  * Fitur login menggunakan ES6
 - Membuat file utama
 - Membuat detail file utama
