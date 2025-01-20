@@ -4,3 +4,4 @@ Resolusi belajar git dan github
 - Membuat project web atau aplikasi mobile yang akan di share di github
 - Kolaborasi dengan kelompok tim
 - Berkontribusi pada github
+- Pratik Github
